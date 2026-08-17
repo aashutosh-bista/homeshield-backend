@@ -1,4 +1,4 @@
-import { Setting } from "../models/Setting.modle.js"
+import { Setting } from "../models/setting.model.js"
 
 // Settings is treated as a singleton (one document for the whole site)
 const getOrCreateSettings = async () => {
