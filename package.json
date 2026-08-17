@@ -1,12 +1,11 @@
 {
   "name": "backend",
   "version": "1.0.0",
-  "description": "This is a backend for dummy",
+  "description": "This is a backend for homeshield",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "dev": "nodemon  index.js",
-    "seed:content": "node utils/seedContent.js"
+    "dev": "nodemon  index.js"
   },
   "keywords": [
     "node"
